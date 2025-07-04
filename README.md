@@ -1,2 +1,1 @@
-# bocilsmu
-bocilsmu
+# [bocilsmu](https://bocilsmu.pages.dev)
